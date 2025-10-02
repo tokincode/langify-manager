@@ -138,7 +138,7 @@ For issues, questions, or feature requests, please open an issue on GitHub.
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/langify-comparison-tool](https://github.com/yourusername/langify-comparison-tool)
+Project Link: [https://github.com/tokincode/langify-comparison-tool](https://github.com/tokincode/langify-comparison-tool)
 
 ---
 
