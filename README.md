@@ -15,6 +15,8 @@ A powerful web-based tool for comparing and merging Shopify Langify app Export/I
 - **🌐 Bilingual Support**: Full English and Korean documentation
 - **💻 User-Friendly Interface**: Web-based interface powered by Streamlit
 
+## 📌 Demo - [langify-manager.streamlit.app](https://langify-manager.streamlit.app)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -138,7 +140,7 @@ For issues, questions, or feature requests, please open an issue on GitHub.
 
 ## 📧 Contact
 
-Project Link: [langify-manager.streamlit.app](https://langify-manager.streamlit.app)
+Project Link: [github.com/tokincode/langify-manager](https://github.com/tokincode/langify-manager)
 
 ---
 
