@@ -138,7 +138,7 @@ For issues, questions, or feature requests, please open an issue on GitHub.
 
 ## 📧 Contact
 
-Project Link: [https://github.com/tokincode/langify-manager](https://github.com/tokincode/langify-manager)
+Project Link: [langify-manager.streamlit.app](https://langify-manager.streamlit.app)
 
 ---
 
