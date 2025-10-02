@@ -144,4 +144,3 @@ Project Link: [langify-manager.streamlit.app](https://langify-manager.streamlit.
 
 **Version**: 2.0 (with Merge feature)
 **Last Updated**: October 2025
-**Made with** ❤️ **for Shopify Langify users**
